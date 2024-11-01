@@ -51,7 +51,7 @@
                </Location>
                <Location
                   uuid = "E64E8425-7599-414F-A808-4986119B9819 - 6ec5343bee930956"
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "RickAndMorty.RMTabBarController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RickAndMorty.RMTabBarController&gt;"
@@ -81,7 +81,7 @@
                </Location>
                <Location
                   uuid = "E64E8425-7599-414F-A808-4986119B9819 - f8a07e692db69c1c"
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "RickAndMorty.RMTabBarController.__deallocating_deinit"
@@ -94,6 +94,19 @@
                   endingLineNumber = "0"
                   offsetFromSymbolStart = "28">
                </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "4B08E382-D7ED-4DAC-8CAC-DC06CA70A5B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
